@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "WeMOS_Clock",
+			"path": "../../Documents/PlatformIO/Projects/WeMOS_Clock"
+		}
+	],
+	"settings": {}
+}
